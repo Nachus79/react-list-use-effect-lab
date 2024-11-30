@@ -15,3 +15,11 @@ function App() {
 }
 
 export default App;
+
+/*Iteración 2: Componente PageLayout
+La página que acabamos de construir, junto con las próximas que crearemos, no respetan los márgenes de CSS. En esta iteración, crearemos un componente llamado PageLayout que solucionará este problema.
+
+📂 Ubicación: components/layouts/page-layout
+
+Usa un contenedor de Bootstrap para definir el diseño.
+Establece los márgenes necesarios. */
